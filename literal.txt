@@ -1,0 +1,22 @@
+MY.zip
+BOZZZ
+"""DISCLAMER 3-Disclamer_size_image_Y, 4-Disclamer_size_image_X, 5-Disclamer_bg_color, 6-Disclamer_button_color, 7-Disclamer_text_color, 8-Disclamer_text_color_button
+100
+200
+#12161C
+#F0BB0C
+white
+black
+"""LOADING MENU 10-title_name, 11-Menu_size_image_Y, 12-Menu_size_image_X, 13-Menu_bg_color, 14-Menu_fg_color, 15-Menu_progress_color
+Catizen BOT
+300
+600
+#12161C
+#12161C
+#F0BB0C
+"""ERROR 17-Error_size_image_Y, 18-Error_size_image_X, 19-Error_bg_color, 20-Error_button_color, 21-Error_text_color_button
+100
+200
+#12161C
+#F0BB0C
+white
